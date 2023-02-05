@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Desktop\Projelerim\Veri yapıları\bağlı liste ödev\bağlı liste ödev\bin\Debug\bağlı liste ödev.exe.config
+C:\Users\Lenovo\Desktop\Projelerim\Veri yapıları\bağlı liste ödev\bağlı liste ödev\bin\Debug\bağlı liste ödev.exe
+C:\Users\Lenovo\Desktop\Projelerim\Veri yapıları\bağlı liste ödev\bağlı liste ödev\bin\Debug\bağlı liste ödev.pdb
+C:\Users\Lenovo\Desktop\Projelerim\Veri yapıları\bağlı liste ödev\bağlı liste ödev\obj\Debug\bağlı liste ödev.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Projelerim\Veri yapıları\bağlı liste ödev\bağlı liste ödev\obj\Debug\bağlı_liste_ödev.Form1.resources
+C:\Users\Lenovo\Desktop\Projelerim\Veri yapıları\bağlı liste ödev\bağlı liste ödev\obj\Debug\bağlı_liste_ödev.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Projelerim\Veri yapıları\bağlı liste ödev\bağlı liste ödev\obj\Debug\bağlı liste ödev.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Projelerim\Veri yapıları\bağlı liste ödev\bağlı liste ödev\obj\Debug\bağlı liste ödev.exe
+C:\Users\Lenovo\Desktop\Projelerim\Veri yapıları\bağlı liste ödev\bağlı liste ödev\obj\Debug\bağlı liste ödev.pdb
+C:\Users\Şevval\Desktop\Projelerim\Veri yapıları\bağlı liste ödev\bağlı liste ödev\bin\Debug\bağlı liste ödev.exe.config
+C:\Users\Şevval\Desktop\Projelerim\Veri yapıları\bağlı liste ödev\bağlı liste ödev\obj\Debug\bağlı liste ödev.exe
+C:\Users\Şevval\Desktop\Projelerim\Veri yapıları\bağlı liste ödev\bağlı liste ödev\obj\Debug\bağlı liste ödev.pdb
